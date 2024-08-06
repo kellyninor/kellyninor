@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hola, Soy Kelly Niño 👋
 
 <!--
 **kellyninor/kellyninor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Estoy trabajando en Mercado Libre como Ingeniero de Software
+- 🎓 Soy estudiante de la Maestría en Inteligencia Analítica de Datos en la Universidad de los Andes
+- 🌱 Siempre estoy estudiando python, go, 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
